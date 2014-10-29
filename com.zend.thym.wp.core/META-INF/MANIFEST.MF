@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core support for Windows Phone
+Bundle-SymbolicName: com.zend.thym.wp.core;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.zend.thym.wp.core.WPCore
+Bundle-Vendor: Zend Technologies Ltd.
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.thym.core
+Bundle-ActivationPolicy: lazy
